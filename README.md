@@ -1,6 +1,6 @@
 # king
 # vem
-<doctype html>
+#<doctype html>
 <html>
 <head>
 <title>anchor page</title>
